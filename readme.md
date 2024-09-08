@@ -2,8 +2,8 @@
 ## Instructions
 1.Initialized git
 
-2.Create a folder for homework
+2.Create a Projects folder
 
-3.Create homework project1
+3.Create homework1
 
 4.Create a branch and merge locally on GitHub.
