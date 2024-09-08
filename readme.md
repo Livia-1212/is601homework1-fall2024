@@ -1,5 +1,7 @@
 # Homework One
-## Instructions
+## Hello Professor
+
+### Instructions
 1.Initialized git
 
 2.Create a Projects folder
